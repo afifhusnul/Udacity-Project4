@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the Play category -->
+    <color name="category_play">#FD8E09</color>
+
+    <!-- Background color for the List category -->
+    <color name="category_list">#379237</color>
+
+    <!-- Background color for the Store category -->
+    <color name="category_store">#8800A0</color>
+
+    <!-- Background color for the Search category -->
+    <color name="category_search">#16AFCA</color>
+</resources>
