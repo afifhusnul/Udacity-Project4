@@ -3,7 +3,6 @@ package com.example.android.udacity_project4;
 import android.content.Intent;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.support.design.widget.CoordinatorLayout;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
@@ -11,10 +10,9 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import static android.R.attr.duration;
+
 
 public class MainActivity extends AppCompatActivity {
-    private CoordinatorLayout coordinatorLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

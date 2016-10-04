@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Udacity-Project4</string>
     <string name="searchable">searchable</string>
+    <string name="searchPlan">Please press Search button on right top to start searching</string>
+
+    <string name="songList">This page is the list of songs, you may play the music with press play button on each song title</string>
+    <string name="songStore">This page is the online store to review the song, if you like it you might buy it for your personal collection</string>
+
 </resources>
