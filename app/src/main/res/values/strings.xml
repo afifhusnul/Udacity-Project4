@@ -3,6 +3,7 @@
     <string name="searchPlan">Please press Search button on right top to start searching</string>
 
     <string name="songList">This page is the list of songs, you may play the music with press play button on each song title</string>
-    <string name="songStore">This page is the online store to review the song, if you like it you might buy it for your personal collection</string>
+    <string name="songStore">This page is the online store to review the song, onc review song usually using their own player. if you like it you might buy it for your personal collection. \n\n
+        Normally if you want to buy a song its need online payment either using credit card or other payment channel depend on their term and condition.</string>
 
 </resources>
